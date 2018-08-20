@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "562938547160",
+    "firebase_url": "https://money-transfer-6c604.firebaseio.com",
+    "project_id": "money-transfer-6c604",
+    "storage_bucket": "money-transfer-6c604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562938547160:android:652d9671f7d722c2",
+        "android_client_info": {
+          "package_name": "com.example.android.moneytransfer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562938547160-1p9fegitmr3vkc1iucbb1egau0c5etnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXaf-SL-Mm9jnUYR52n44mUX7j3TIQOZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
